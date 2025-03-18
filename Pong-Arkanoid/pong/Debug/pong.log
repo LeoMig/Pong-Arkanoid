@@ -1,0 +1,38 @@
+﻿  main.cpp
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(30,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(30,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(30,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(30,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(74,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(79,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(94,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(95,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(147,13): warning C4101: 'hbm': unreferenced local variable
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(187,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(187,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(187,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(187,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(195,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(198,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(198,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(198,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(199,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(199,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(199,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(199,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(204,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(205,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(235,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(237,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(257,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(277,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(278,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(281,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(282,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(288,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(288,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(295,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(296,39): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(297,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\student-2\source\repos\pong5\pong\main.cpp(298,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  pong.vcxproj -> C:\Users\student-2\source\repos\pong5\Debug\pong.exe
